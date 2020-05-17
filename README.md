@@ -5,4 +5,5 @@ Built using an ESP32, an LCD screen, an LED grid, a 3W 4Ohm speaker, 3 potentiom
 
 Features include 4 dazzling music visualization mediums as well as a music generation portion using machine learning with EDM builds and bass drops.
 
+## Video
 Check out the video here: https://www.youtube.com/watch?v=uZABbEBb4fk
